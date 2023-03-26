@@ -19,10 +19,17 @@ ul {
 }
 
 .button {
-  width: 50%;
-  display: inline;
+  background-color: #4CAF50; /* Green */
+  border: 3px solid green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 .keys li {
+  padding: 10px;
   display: inline;
 }
