@@ -5,7 +5,10 @@
   border: 3px solid red;
 }
 
-
+ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
 
 .keys {
   display: grid;
@@ -15,3 +18,11 @@
   padding: 10px;
 }
 
+.button {
+  width: 50%;
+  display: inline;
+}
+
+.keys li {
+  display: inline;
+}
