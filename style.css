@@ -1,3 +1,10 @@
-.calculator__keys { 
-  display: grid; 
+.keys {
+  display: grid;
+  width: 20%;
+}
+
+.container > div {
+  flex: 50%;
+
+  margin-bottom: 10px;
 }
