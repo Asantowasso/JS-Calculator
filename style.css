@@ -6,9 +6,14 @@ body {
 
 .display {
   display: block;
-  margin-left: 400px;
+  height: 30px;
+  margin-left: 420px;
   margin-right: auto;
   border: 3px, #cc7178;
+}
+
+.screen {
+  height: 40px;
 }
 
 ul {
@@ -21,7 +26,7 @@ ul {
   margin: auto;
   width: 50%;
   border: 3px black;
-  padding-left: 15px;
+  padding-left: 20px;
   padding: 10px;
 }
 
