@@ -1,10 +1,17 @@
+.display {
+  display: block;
+  margin-left: 305px;
+  margin-right: auto;
+  border: 3px solid red;
+}
+
+
+
 .keys {
   display: grid;
-  width: 20%;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
 
-.container > div {
-  flex: 50%;
-
-  margin-bottom: 10px;
-}
