@@ -4,16 +4,21 @@ body {
   background-color: #89023e;
 }
 
+table {
+  padding-bottom: 15px;
+}
+
 .display {
   display: block;
-  height: 30px;
+  height: 35px;
   margin-left: 420px;
   margin-right: auto;
   border: 3px, #cc7178;
 }
 
 .screen {
-  height: 40px;
+  height: 45px;
+  
 }
 
 ul {
@@ -23,11 +28,10 @@ ul {
 
 .keys {
   display: grid;
+  background-color: #f3e1dd;
+  padding-left: 70px;
   margin: auto;
-  width: 50%;
-  border: 3px black;
-  padding-left: 20px;
-  padding: 10px;
+  width: 60%;
 }
 
 .button {
@@ -35,7 +39,7 @@ ul {
   border: 3px solid green;
   border-radius: 20px;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
