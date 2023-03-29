@@ -29,6 +29,7 @@ ul {
 .keys {
   display: grid;
   background-color: #f3e1dd;
+  border: 5px solid black;
   padding-left: 70px;
   margin: auto;
   width: 60%;
@@ -43,7 +44,7 @@ ul {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .keys li {

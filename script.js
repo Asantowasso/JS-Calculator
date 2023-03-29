@@ -19,3 +19,7 @@ function solve(){
 
   return y
 }
+
+function clearScreen() {
+  document.getElementById('result').value = ""
+}
