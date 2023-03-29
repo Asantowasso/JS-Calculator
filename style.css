@@ -47,6 +47,35 @@ ul {
   font-size: 20px;
 }
 
+.clear {
+  background-color: #b7c7d9; 
+  border: 3px solid green;
+  border-radius: 20px;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+
+}
+
+.funcbutton {
+  background-color: #b7c7d9; 
+  border: 3px solid green;
+  border-radius: 20px;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  
+}
+
+
+
+
 .keys li {
   padding: 10px;
   display: inline;
